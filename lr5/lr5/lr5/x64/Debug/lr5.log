@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\dev\mpei_vr_lab\lr5\lr5\lr5\main.cpp(266,41): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  lr5.vcxproj -> G:\dev\mpei_vr_lab\lr5\lr5\x64\Debug\lr5.exe

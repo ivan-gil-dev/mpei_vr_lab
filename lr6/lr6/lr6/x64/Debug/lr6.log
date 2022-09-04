@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\dev\mpei_vr_lab\lr6\lr6\lr6\main.cpp(565,59): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  lr6.vcxproj -> G:\dev\mpei_vr_lab\lr6\lr6\x64\Debug\lr6.exe

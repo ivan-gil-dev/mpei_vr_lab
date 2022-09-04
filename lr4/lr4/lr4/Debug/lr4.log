@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwInit в функции _main.
+G:\dev\mpei_vr_lab\lr4\lr4\..\..\extlib\lib\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+G:\dev\mpei_vr_lab\lr4\lr4\Debug\lr4.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
